@@ -90,7 +90,7 @@ public class OpenWorldGame extends Application {
 
         // Здесь можно добавить логику смены камеры, проверки границ мира и т.д.
     }
-}
+}//ii
 
 // Класс главного персонажа
 class Player {
