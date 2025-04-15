@@ -1,0 +1,8 @@
+<dependencies>
+    <dependency>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-controls</artifactId>
+        <version>17.0.2</version> <!-- или актуальная версия -->
+    </dependency>
+    <!-- Дополнительные модули JavaFX (например, javafx-fxml) можно добавить по необходимости -->
+</dependencies>
